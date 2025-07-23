@@ -1,0 +1,19 @@
+.post-page {
+  background-color: #000;
+  color: white;
+  padding: 40px 20px;
+  min-height: 100vh;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-page h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.post-content p {
+  margin-bottom: 16px;
+  line-height: 1.6;
+}

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CounterStronk/static/css/main.205de4c9.css",
+    "main.js": "/CounterStronk/static/js/main.b4b167d0.js",
+    "static/js/453.26d1603e.chunk.js": "/CounterStronk/static/js/453.26d1603e.chunk.js",
+    "index.html": "/CounterStronk/index.html",
+    "main.205de4c9.css.map": "/CounterStronk/static/css/main.205de4c9.css.map",
+    "main.b4b167d0.js.map": "/CounterStronk/static/js/main.b4b167d0.js.map",
+    "453.26d1603e.chunk.js.map": "/CounterStronk/static/js/453.26d1603e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.205de4c9.css",
+    "static/js/main.b4b167d0.js"
+  ]
+}

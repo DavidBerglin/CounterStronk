@@ -7,7 +7,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <Router>
+    <Router basename="/CounterStronk">
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
